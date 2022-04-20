@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sam-387
 - 👀 I’m interested in frontend development and cloud computing.
-- 🌱 I’m currently improving my JavaScript and React and learning about AWS and Google Cloud
+- 🌱 I’m currently improving my JavaScript and React skills
+- 🌱 I'm currently learning about AWS and Google Cloud
 - 💞️ I’m looking to collaborate on projects for beginners
 - 📫 You may reach me at solomon.adina@gmail.com
 
