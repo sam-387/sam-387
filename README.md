@@ -3,6 +3,7 @@
 - 🌱 I’m currently improving my JavaScript and React skills
 - 🌱 I'm currently learning about AWS and Google Cloud
 - 💞️ I’m looking to collaborate on projects for beginners
+- 🙏 I'm greateful to www.freecodecamp.org and www.scrimba.com for their fantastic programing courses.
 - 📫 You may reach me at solomon.adina@gmail.com
 
 <!---
