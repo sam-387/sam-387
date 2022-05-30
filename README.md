@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sam-387
 - 👀 I’m interested in frontend development and cloud computing.
 - 🌱 I’m currently improving my JavaScript and React skills
-- 🌱 I'm currently learning about AWS and Google Cloud
+- 🌱 I'm currently learning about AWS and Google Cloud and just earned my AWS CSAA (https://www.credly.com/badges/7722758a-bddf-4336-9821-183afa4bce7d/public_url)
 - 💞️ I’m looking to collaborate on projects for beginners
 - 🙏 I'm greateful to www.freecodecamp.org and www.scrimba.com for their fantastic programming courses
 - 🙏 I'm greateful to www.gocloudcareers.com for their amazing content and courses on cloud computing
